@@ -2,4 +2,4 @@
 Test repository
 
 Hi humans!
-Moon tacos are better thatb Earth tacos!
+Moon tacos are better than Earth tacos!
